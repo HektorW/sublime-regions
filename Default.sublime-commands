@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Toggle Regions",
+		"command": "toggle_regions"
+	}
+]
